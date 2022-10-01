@@ -1,6 +1,6 @@
 
 
-Early Detection of Chronic Kidney Disease using Machine Learning
+PROJECT TITLE:Early Detection of Chronic Kidney Disease using Machine Learning
 TEAM ID:PNT2022TMID10811
 TEAM SIZE:7
 TEAM LEADER:PAVUN KAVITHA K
